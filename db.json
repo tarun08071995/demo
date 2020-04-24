@@ -1,38 +1,26 @@
 [
 {
-    "sareeUniqueId": "4",
     "sareeName": "VT ORGENZA SAREE",
     "sareePhoto": "C:/Tarun Israni/mansaPhotos//bolly/orgenzaseagreen.jpg",
-    "sareeCategory": "replicas"
 },
 {
-    "sareeUniqueId": "5",
     "sareeName": "BOLLY DS-20",
     "sareePhoto": "C:/Tarun Israni/mansaPhotos/bolly/ds20.jpg",
-    "sareeCategory": "replicas"
 },
 {
-    "sareeUniqueId": "6",
     "sareeName": "BOLLY GREY NET SAREE",
     "sareePhoto": "C:/Tarun Israni/mansaPhotos/bolly/greynetkt3285.jpg",
-    "sareeCategory": "replicas"
 },
 {
-    "sareeUniqueId": "7",
     "sareeName": "LUCKNOW CHICON",
     "sareePhoto": "C:/Tarun Israni/mansaPhotos/mansahit/lucknowchicon/black.jpg",
-    "sareeCategory": "mansa"
 },
 {
-    "sareeUniqueId": "8",
     "sareeName": "RAJTEX KRYSTILLA SILK",
     "sareePhoto": "C:/Tarun Israni/mansaPhotos/rajtex/krystilasilkRAJTEX/blue.jpg",
-    "sareeCategory": "silk"
 },
 {
-    "sareeUniqueId": "9",
     "sareeName": "RAJTEXT KUMBHI SILK",
     "sareePhoto": "C:/Tarun Israni/mansaPhotos/rajtex/kumbhisilk/purple.jpg",
-    "sareeCategory": "silk"
 }
 ]
