@@ -1,0 +1,30 @@
+[
+{
+    "sareeUniqueId": "4",
+    "sareeName": "VT ORGENZA SAREE",
+    "sareePrice": "1000RS",
+    "sareePhoto": "C:/Tarun Israni/mansaPhotos//bolly/orgenzaseagreen.jpg",
+    "sareeCategory": "replicas"
+},
+{
+    "sareeUniqueId": "5",
+    "sareeName": "BOLLY DS-20",
+    "sareePrice": "1050rs",
+    "sareePhoto": "C:/Tarun Israni/mansaPhotos/bolly/ds20.jpg",
+    "sareeCategory": "replicas"
+},
+{
+    "sareeUniqueId": "6",
+    "sareeName": "BOLLY GREY NET SAREE",
+    "sareePrice": "1550rs",
+    "sareePhoto": "C:/Tarun Israni/mansaPhotos/bolly/greynetkt3285.jpg",
+    "sareeCategory": "replicas"
+},
+{
+    "sareeUniqueId": "7",
+    "sareeName": "LUCKNOW CHICON",
+    "sareePrice": "2575rs",
+    "sareePhoto": "C:/Tarun Israni/mansaPhotos/mansahit/lucknowchicon/black.jpg",
+    "sareeCategory": "mansa"
+}
+]
